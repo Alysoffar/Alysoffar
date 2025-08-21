@@ -42,7 +42,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/Alysoffar/5NightsAtLarry-s"><b>5 Nights At Larry's</b></a>
-      <br />AI-driven indie game mechanics
+      <br />A Java text-based game for terminal/console play. Experience suspense, story, and interactive choices—all in a classic text adventure format!
     </td>
     <td align="center">
       <a href="https://github.com/Alysoffar/CancerDiganosis"><b>Cancer Diagnosis</b></a>
