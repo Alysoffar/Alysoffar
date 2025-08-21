@@ -1,80 +1,90 @@
-<!-- Profile Header -->
+<!-- Banner & Profile Picture -->
+
+<!-- Animated Title (SVG GIF) -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-github-id?v=4" width="120" alt="Alysoffar Avatar" style="border-radius: 50%">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=0D8F8F&center=true&vCenter=true&width=480&lines=AI+Engineer;Aspiring+AI+Researcher;Robotics+Instructor" alt="Typing SVG" />
 </p>
-<h1 align="center">Hi, I'm Alysoffar 👋</h1>
-<p align="center"><b>AI Engineer | Aspiring AI Researcher | Robotics Instructor</b></p>
+
+<details>
+  <summary><b>About Me</b></summary>
+  <br>
+  Hi! I'm Aly Soffar, currently a 3rd year Computer Science student at AAS in Alexandria, Egypt. I absolutely love exploring the frontiers of technology—whether it's artificial intelligence, robotics, quantum computing, or cloud solutions. I thrive on building cool projects, mentoring others, and sharing what I learn. I believe in lifelong learning and am always excited to collaborate, solve problems, and make new friends in the tech community. Thanks for dropping by my profile!
+</details>
 
 ---
-
-## 👨‍💻 About Me
-
-I'm an AI Engineer and aspiring AI researcher passionate about solving complex problems with machine learning and data-driven solutions. I also teach robotics and have a strong background in competitive robotics.
-
-- 🥈 **Robocup Junior @Home Category — 2nd Place Winner**
-- 🤖 **Robotics Instructor:** Inspiring students to build and innovate with robots
-- 🔭 Currently exploring: Generative AI, LangChain, and advanced data science techniques
-- 🌱 Learning: Deep Learning, LLMs, Quantum Computing, Cloud Technologies
-- 💬 Ask me about: Python, Machine Learning, AI research, Robotics, Open-source collaboration
-- 🧠 Interests: Quantum Computing, Cloud Computing
-- 📫 How to reach me: [Email](mailto:alysoffar06@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aly-soffar-4a7317295)
-
----
-
-## 🛠️ Skills & Technologies
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow" />
-  <img src="https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch" />
-  <img src="https://img.shields.io/badge/-LangChain-black?style=flat-square&logo=langchain" />
-  <img src="https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter" />
-  <img src="https://img.shields.io/badge/-Quantum%20Computing-black?style=flat-square&logo=ibm" />
-  <img src="https://img.shields.io/badge/-Cloud%20Technologies-black?style=flat-square&logo=cloudflare" />
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
-  <!-- Add more skills as needed -->
+  <img src="https://img.shields.io/badge/Coursera%20AI%20Specialization-blue?style=for-the-badge&logo=coursera" />
+  <img src="https://img.shields.io/badge/Coursera%20AWS%20Essentials-yellow?style=for-the-badge&logo=amazon-aws" />
+  <img src="https://img.shields.io/badge/Coursera%20Python%20for%20Everybody-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/QWorld%20QBronze-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/QWorld%20QNickel-silver?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Robocup%20Junior%202nd%20Place-%230D8F8F?style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 Top Projects
+## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-| ------- | ----------- | ---------- |
-| [LangGraph Full Guide](https://github.com/Alysoffar/LangGraph_FullGuide) | Complete practical guide to LangGraph for building robust AI workflows | Python, LangChain, Jupyter |
-| [GitHub 2.1](https://github.com/Alysoffar/GitHub-2.1) | Advanced GitHub automation and analysis toolkit | Python, GitHub API |
-| [Archeological Discoverers Team6](https://github.com/Alysoffar/Archeological_discoverers_Team6) | AI-powered tools for archaeological data analysis | Python, Data Science, ML |
-| [5 Nights At Larry's](https://github.com/Alysoffar/5NightsAtLarry-s) | AI-driven gameplay mechanics for a custom indie game | Python, Game Dev |
-| [Cancer Diagnosis](https://github.com/Alysoffar/CancerDiganosis) | Machine learning models for cancer diagnosis from medical data | Python, ML, Data Science |
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Alysoffar/LangGraph_FullGuide"><b>LangGraph Full Guide</b></a>
+      <br />Practical guide to LangGraph for robust AI workflows
+    </td>
+    <td align="center">
+      <a href="https://github.com/Alysoffar/GitHub-2.1"><b>GitHub 2.1</b></a>
+      <br />Advanced GitHub automation and analysis toolkit
+    </td>
+    <td align="center">
+      <a href="https://github.com/Alysoffar/Archeological_discoverers_Team6"><b>Archeological Discoverers Team6</b></a>
+      <br />AI-powered tools for archaeological data
+    </td>
+    <td align="center">
+      <a href="https://github.com/Alysoffar/5NightsAtLarry-s"><b>5 Nights At Larry's</b></a>
+      <br />AI-driven indie game mechanics
+    </td>
+    <td align="center">
+      <a href="https://github.com/Alysoffar/CancerDiganosis"><b>Cancer Diagnosis</b></a>
+      <br />ML models for cancer diagnosis
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 🧑‍💻 Skills & Interests
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alysoffar&show_icons=true&theme=github_dark" alt="Alysoffar's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alysoffar&theme=github-dark-blue" alt="Alysoffar's GitHub streak" />
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-%230D8F8F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Quantum%20Computing-%230D8F8F?style=for-the-badge&logo=ibm"/>
+  <img src="https://img.shields.io/badge/Cloud%20Technologies-%230D8F8F?style=for-the-badge&logo=cloudflare"/>
+  <img src="https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-## 🏆 Badges & Certifications
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Coursera%20AI%20Specialization-blue?style=flat-square&logo=coursera" />
-  <img src="https://img.shields.io/badge/-Coursera%20AWS%20Essentials-yellow?style=flat-square&logo=amazon-aws" />
-  <img src="https://img.shields.io/badge/-Coursera%20Python%20for%20Everybody-blue?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/-QWorld%20QBronze-purple?style=flat-square" />
-  <img src="https://img.shields.io/badge/-QWorld%20QNickel-silver?style=flat-square" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alysoffar&show_icons=true&theme=github_dark" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alysoffar&theme=github-dark-blue" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alysoffar&theme=github_dark" height="165" />
 </p>
 
 ---
 
-## 🤝 Let's Connect!
+## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/aly-soffar-4a7317295)
-- [Email](mailto:alysoffar06@gmail.com)
+<p align="center">
+  <a href="mailto:alysoffar06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/aly-soffar-4a7317295"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ---
 
-<p align="center">Thanks for visiting! 🚀</p>
+<p align="center"><i>Thanks for visiting! 🚀</i></p>
